@@ -7,8 +7,8 @@ icon = "microphone"
 +++
 ### The observations of atmospheric CO2 and 14CO2 at KMA/GAW regional stations, their characteristics, and implications.
 <br>
-#### 이해영 박사님 (국립기상과학원)
-#### 2021년 11월 09일 (금) 16:00
+#### 이해영 박사님 (국립기상과학원, 기상청)
+#### 2021년 11월 09일 (화) 16:00
 #### Zoom
 <br>
 #### Abstract
